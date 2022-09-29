@@ -54,6 +54,7 @@ int main()
   line(70,80,70,60);
   line(90,80,110,60);
   line(70,80,90,60);
- getch();
+
+getch();
  closegraph();
 }
